@@ -37,7 +37,7 @@
     <EditText
         android:id="@+id/editTextText4"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:layout_margin="16dp"
         android:layout_marginTop="16dp"
         android:ems="10"
@@ -50,7 +50,7 @@
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:text="APLICATIVO CURSO ANDROID"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -63,7 +63,7 @@
     <EditText
         android:id="@+id/editTextText"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:layout_margin="16dp"
         android:ems="10"
         android:hint="Nome"
