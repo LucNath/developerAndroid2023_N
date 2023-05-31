@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppListaCurso</string>
+    <string name="txt_titulo">APLICATIVO CURSO ANDROID</string>
+    <string name="txt_hint_edit_primeiro_nome">Nome</string>
+    <string name="txt_hint_edit_sobrenome">Sobrenome</string>
+    <string name="txt_hint_edit_nome_do_curso">Nome do Curso Desejado</string>
+    <string name="txt_hint_edit_telefone_de_contato">Telefone de Contato</string>
+    <string name="txt_button_edit_limpar">LIMPAR</string>
+    <string name="txt_button_edit_salvar">SALVAR</string>
+    <string name="txt_button_edit_finalizar">FINALIZAR</string>
 </resources>
